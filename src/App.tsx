@@ -86,7 +86,7 @@ function App() {
                 Email
               </a>
               <a
-                href="https://drive.google.com/file/d/1FW4D1uG23Go4WWEupkyONkX9gFAptr0l/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1Pj7cAKru0_LUqQ8Gd7JD9knnCRn05w3y/view?usp=sharing"
                 download
                 className="text-sm text-slate-400 transition-colors hover:text-teal-300 light:text-slate-600 light:hover:text-teal-600"
               >

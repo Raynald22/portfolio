@@ -259,7 +259,7 @@ export function Hero() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1FW4D1uG23Go4WWEupkyONkX9gFAptr0l/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1Pj7cAKru0_LUqQ8Gd7JD9knnCRn05w3y/view?usp=sharing"
             target="_blank"
             download
             className="group flex items-center gap-2 rounded-full border-2 border-slate-700/80 bg-slate-900/60 px-6 py-3.5 text-base font-medium text-slate-200 backdrop-blur-sm transition-all hover:border-teal-400/60 hover:bg-slate-800/80 hover:text-teal-200 light:border-slate-300 light:bg-white/90 light:text-slate-800 light:hover:border-teal-500 light:hover:bg-slate-50"
